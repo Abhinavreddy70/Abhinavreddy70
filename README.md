@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as **Trainee Associate – Accounts Receivable** at **Deloitte** (FedEx Project)
+- 💼 Currently working as **Trainee Associate – Accounts Receivable** at **Deloitte**
 - 🎯 Seeking to transition into a **Data Analyst / MIS Analyst** role
 - 🛠️ Hands-on experience with **Python, Django, Power BI & Excel**
 - 🌱 Currently learning **Power BI, SQL & Data Analytics**
